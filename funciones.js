@@ -1,1 +1,1 @@
-alert(" codigo en  funciones.js");
+//alert(" codigo en  funciones.js");
